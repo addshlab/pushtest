@@ -1,0 +1,5 @@
+*.swp
+*.sql
+.htaccess
+.DS_Store*
+Thumbs.db
