@@ -1,13 +1,14 @@
 # README
-<span style="color: white;">-----------------</span>
-<span style="color: white;background: red;">Working tree</span>
+```shell
+-----------------
+ Working tree
  - No files.
  Index
  - No files.
  Unpushed Commit
  - No commits.
 -----------------
-
+```
 
 ## 2021-08-15
 
